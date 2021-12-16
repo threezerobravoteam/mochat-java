@@ -235,7 +235,7 @@
         <dependency>
             <groupId>com.auth0</groupId>
             <artifactId>java-jwt</artifactId>
-            <version>3.4.0</version>
+            <version>3.18.2</version>
         </dependency>
         <!--阿里云配置-->
         <dependency>
