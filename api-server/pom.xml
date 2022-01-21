@@ -20,7 +20,7 @@
         <!--   <mybatisplus-spring-boot-starter.version>1.0.5</mybatisplus-spring-boot-starter.version>-->
         <quartz.version>2.3.2</quartz.version>
         <lombok.version>1.18.8</lombok.version>
-        <mysql-connector-java.version>8.0.16</mysql-connector-java.version>
+        <mysql-connector-java.version>8.0.27</mysql-connector-java.version>
         <!-- <mybatisplus.version>2.0.7</mybatisplus.version>-->
         <!-- <druid.version>1.0.27</druid.version>-->
         <sonar.organization>threezerobravoteam</sonar.organization>
