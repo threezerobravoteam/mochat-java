@@ -23,6 +23,8 @@
         <mysql-connector-java.version>8.0.16</mysql-connector-java.version>
         <!-- <mybatisplus.version>2.0.7</mybatisplus.version>-->
         <!-- <druid.version>1.0.27</druid.version>-->
+        <sonar.organization>threezerobravoteam</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
     <profiles>
